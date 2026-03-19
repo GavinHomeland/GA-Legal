@@ -1,7 +1,7 @@
 # **GrammatikArtikel** 
 ## End User License Agreement (EULA)
 Developer: The Chauncy Files
-Last updated: 2026-02-22 
+Last updated: 2026-03-14
 
 ---
 ## 1. License Grant
@@ -32,4 +32,4 @@ If any provision of this Agreement is held to be unenforceable or invalid, such 
 The developer reserves the right, at its sole discretion, to modify or replace this Agreement at any time. If a revision is material, we will provide notice within the application or via the developer's website.
 
 ## 10. Contact
-For questions about this agreement, contact: HelloChauncy@gmail.com
+For questions about this agreement, contact: [HelloChauncy@gmail.com](mailto:HelloChauncy@gmail.com)
