@@ -1,16 +1,34 @@
-# Data Deletion Request
-At The Chauncy Files, we value your privacy. Because GrammatikArtikel uses an anonymous identifier to synchronize your learning progress and statistics, we do not have your name or email address on file.
+# Data Deletion — GrammatikArtikel
+**Developer:** The Chauncy Files
+**Last updated:** 2026-03-25
+
+Because GrammatikArtikel uses an anonymous identifier to sync your learning progress, we do not have your name or email address on file.
 
 ---
 
-## How to request deletion:
-If you wish to have your synchronized learning stats and progress permanently removed from our Firebase database, please follow these steps:
+## Option 1 — In-App Self-Service (recommended)
 
-- Open the GrammatikArtikel app.
-- Navigate to the Settings menu. ⚙️
-- Locate your Anonymous Installation ID at the top.
-- Send an email to HelloChauncy@gmail.com with the subject **"Data Deletion Request"** and **include your ID.**
+1. Open the app and go to **Settings**.
+2. Tap **Delete Player**, type your player name to confirm, and tap **Schedule Delete**.
+3. A 72-hour cancellation window begins. If not cancelled, all local progress and cloud data are permanently deleted automatically when the window expires.
 
-Alternativly, there is a button at the bottom of settings that will automate the above process for you. 
+No email required.
 
-**Once we receive your request, all data associated with that ID will be purged from our servers within 48 hours. Uninstalling the app from your device will delete all locally stored progress.**
+---
+
+## Option 2 — Email Request
+
+1. Open the app and go to **Settings**.
+2. Tap **Bug / Feedback / Delete Data** and select the **Delete Data** category.
+3. Your anonymous User ID is included automatically. Tap **Send**.
+
+Alternatively, email [HelloChauncy@gmail.com](mailto:HelloChauncy@gmail.com) with the subject **"Data Deletion Request"** and include your User ID (shown in Settings under your player name).
+
+We will fulfill all email deletion requests within 30 days.
+
+---
+
+## What gets deleted
+
+- All learning progress and statistics stored in Firebase Cloud Firestore.
+- All locally stored data is removed when you uninstall the app.
