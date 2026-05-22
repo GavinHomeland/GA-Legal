@@ -1,7 +1,7 @@
 # **GrammatikArtikel**
 ## Privacy Policy
 **Developer:** The Chauncy Files  
-**Last updated:** 2026-04-14
+**Last updated:** 2026-05-19
 
 ---
 
@@ -10,7 +10,9 @@ To provide a persistent learning experience and track your progress through the 
 
 * **User Statistics & Progress:** We store your success rates with noun articles, mastery levels, and study session timestamps to provide accuracy tracking and personalized learning stats. In the future, anonymous 'leaderboard' type statistics may be added. 
 * **Usernames:** To identify your player profile within the app and on cloud-synced progress logs, we store a self-selected username in Firebase. This name is used for profile identification and data recovery. We recommend using a pseudonym that does not reveal your real-world identity.
-* **Unique Identifiers:** We use an anonymous, Firebase-generated installation ID to distinguish your progress and settings from other users. 
+* **Unique Identifiers:** We use an anonymous, Firebase-generated installation ID to distinguish your progress and settings from other users.
+* **Device Model:** We collect your device's manufacturer and model name (e.g. "Google Pixel 8") and the installed app version for the sole purpose of diagnosing display or compatibility issues. This information is never shared with third parties.
+* **Usage Duration:** We record the total number of seconds the app is open and active in the foreground, broken down by day, for a rolling 14-day window. This data is used solely to help us understand general engagement and is stored alongside your other progress data in Firebase.
 
 **No personal identification data (such as your email address or phone number) is collected, and no user data will ever be sold.**
 
