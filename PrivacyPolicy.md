@@ -1,7 +1,7 @@
 # **GrammatikArtikel**
 ## Privacy Policy
 **Developer:** The Chauncy Files  
-**Last updated:** 2026-09-29
+**Last updated:** 2026-11-01
 
 ---
 
@@ -11,7 +11,8 @@ To provide a persistent learning experience and track your progress through the 
 * **User Statistics & Progress:** We store your success rates with noun articles, mastery levels, and study session timestamps to provide accuracy tracking and personalized learning stats. In the future, anonymous 'leaderboard' type statistics may be added. 
 * **Usernames:** To identify your player profile within the app and on cloud-synced progress logs, we store a self-selected username in Firebase. This name is used for profile identification and data recovery. We recommend using a pseudonym that does not reveal your real-world identity.
 * **Unique Identifiers:** We use an anonymous, Firebase-generated installation ID to distinguish your progress and settings from other users.
-* **Device Model:** We collect your device's manufacturer and model name (e.g. "Google Pixel 8") and the installed app version for the sole purpose of diagnosing display or compatibility issues. This information is never shared with third parties.
+* **Device Model:** We collect your device's manufacturer and model name (e.g. "Google Pixel 8") and the installed app version for the sole purpose of diagnosing display or compatibility issues. This information is shared only with Google, which provides our Firebase services (see Section 3).
+* **Device Language:** We record your phone's language setting (e.g. "de") so we can see which languages our players use.
 * **Usage Duration:** We record the total number of seconds the app is open and active in the foreground, broken down by day, for a rolling 14-day window. This data is used solely to help us understand general engagement and is stored alongside your other progress data in Firebase.
 * **App Usage Events:** Through **Google Analytics for Firebase**, we record how the app is used — for example, when a round is started, finished, or stopped early, which screens are opened, whether the tutorial was completed, and when the store is visited or a purchase is made. These events are tied to a pseudonymous app-instance ID, not to your username, and are used only to understand where the app works well and where players get stuck, so we can improve it. Google Analytics also estimates your approximate location (country or city level) from your IP address; we never collect your precise location.
 * **Crash Reports:** Through **Firebase Crashlytics**, we receive a report when the app crashes or hits an error, including the device model, operating system version, and the technical details of the error. These are used only to find and fix bugs.
